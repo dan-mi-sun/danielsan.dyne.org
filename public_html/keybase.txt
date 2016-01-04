@@ -1,0 +1,79 @@
+https://keybase.io/danielsan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://danielsan.dyne.org
+  * I am danielsan (https://keybase.io/danielsan) on keybase.
+  * I have a public key with fingerprint 2CAC 54F4 DCEF C1BA 5B62  6442 0DF0 BD31 1A43 3BAB
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.3"
+        },
+        "key": {
+            "fingerprint": "2cac54f4dcefc1ba5b6264420df0bd311a433bab",
+            "host": "keybase.io",
+            "key_id": "0DF0BD311A433BAB",
+            "uid": "7d597f5b64c5c63e6a2343872ffe4000",
+            "username": "danielsan"
+        },
+        "merkle_root": {
+            "ctime": 1418728232,
+            "hash": "626d3d79d5f30c76e2435d6b813103a9c0a59e6005a2665937baef3e46ad83294b366a7736847c5e2df9a7a51e53f1c4dcbdfeb1a62ad67d60d47c86fd41cbda",
+            "seqno": 110512
+        },
+        "service": {
+            "hostname": "danielsan.dyne.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1418728483,
+    "expire_in": 157680000,
+    "prev": "7aa73ac63e12090f5f1221e26d5b4baee1eb1ffaec8f19af142c43f8534e108a",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFdUntQVFUcXkSYwDAQHAuXoCUcDGa973t3o2l2Q5oiCptMEmI9955zlyvLvXB3
+ARdmR8SUQRFRQxpEqBm0VfJVPKQBG3OmaTIbp7HohQIVDxXKZ1ppncvYjPbfOef3
+/b7f932/0xQVaooMifp9kIx/7umukNNToum1prjkaouoQb/FXm2RPApSfcZJBSXI
+YrcUI78IvMiqaEmqBpF1rTfpHibdUoF0r6KpGEVYeSttCaQbcKNZVlQ30kt1xeCy
+UBKQWEZmoIRkiRQBK3IUxzAUAWVChDRJAoamRSBiyiLN63tgqmWW06VAY0pmFuHM
+xHgHxjsdTlwrny3wkLXxMqZlJFbiaMQBimZogadkGTEEQRhAL9LvWYJAVZDHC1RD
+cAnSiz3IpWvarGvJpxgYkiFxt0DRFJYEvEW4C0uGNORtkJVpQuI5RDE0CzlRIGmS
+oIFNIgBrQxxBsIDiONZG8yJAMo0YDkCBpmyMSHMc4HmaExheYhEFZRvgAUsilpZJ
+CYcjQhmJJOAoADkecgTEOIGTIUPiEsAevKhM1bA4kmBJKmDc9QpFQoZuI7f/27NC
+v4qsmu7GraW65tMkzYPrRT5fqd2w7vOXom78UIlE1z0ql6ioEO/u/uWSGPpgLIxA
+p1vQulJFRy7FQLA8J+CYCWMOqjAWAgBPA2MVJEXYCJmVSYoiEY6QFRmcCyKxU1kG
+SBJk0gZkkqEkhpYFlmYQSQj3mRWwTuDGlF7FrQJfuY4sgfo55rmmkEhTeNgc4/ea
+IiOi//vSl089cmdxStj2EFJaFZ8VKGA/3bwi12Wufe+jivaTyxqWgG/Xmf4cyG1t
+j+k8419jd2xM3NLoq8ladbbn568uTGcsONcxQS3suXOovmlv54bx4a3hhUeyv//r
+xcPQobRR29rFZ1pa0ifefnhfYu+HfjJl+RuRSWdaX50KrenJP7jRXHP0qtn2ftAy
+QETdrZp8tq/8/OKB4Bl9dKZ5qLezO/rlgc0/fFI6fc3x6+2ndjc7d6099FZVyujZ
+1N/ebXrInMb99FLXZ5RXpnI3da1quf7m0h8LLvX+XQsbPY8PJnaM5/ddOXiiqHxN
+dqq2e2Ze9/W+pq01tHsm4uy27+wJY7tS2w9XSjHby2CT/53CV+K11jrhlJrQ2BeR
+k1hb2TCevSOv8bGqzmHn1T3Dm/QN+6bXD6V/s5JQzWMXQ+0JO9rUuP6pkZyhtnBP
+nbPMqcZNVGsrFi+6eSWl+sTnvl++uFHvfGI8OHlr/qn9y3dKByqDscXz9rBLkq4F
+V3etD09Lm/kgh6sePL+ImBkt6N5/t7bmn8k/nDcK+8cy6l8fnLugbdwReyCGXbms
+QT56OvryrZiR9ttJjy4dMgWGrWWxDaI3LybTHkxLzjzujtrpvJjcsHphfvowHJCs
+8zuC/KXBY40lueYXpON7LzTX5XxZHXWy/9jzR1zZVPRIXuCcIyNnZdzHeWGB4ifr
+v+5fN9F2818=
+=1NuJ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/danielsan
+

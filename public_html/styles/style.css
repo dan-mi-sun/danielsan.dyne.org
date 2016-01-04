@@ -1,0 +1,29 @@
+body {
+    font-size: 90%;
+    margin-top: 1%;
+}
+
+h3 {
+    font-family: helvetica, arial, sans-serif;
+}
+
+hr {
+    text-decoration: none;
+    color: #04fa13;
+} 
+
+
+a:link {
+    text-decoration: none;
+    color: #04fa13;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #04fa13;
+}
+
+li {
+    list-style-type: none;
+    line-height: 175%;
+}
