@@ -1,5 +1,5 @@
 @font-face {
-	font-family: 'AT';
+	font-family: 'Mono';
 	src: url('../fonts/MaisonNeueMono.woff') format('woff');
 	font-style: normal;
 	font-weight: 400;
@@ -38,7 +38,7 @@ html {
 }
 
 body {
-  font-family: 'AT';
+  font-family: 'Mono', monospace;
   font-size: 1.6rem;
   line-height: 1.5;
   margin: 2.4rem;
@@ -51,14 +51,7 @@ article {
   margin-bottom: 9.6rem;
 }
 
-@media(max-width: 768px) {
-  body {
-    font-size: 1.4rem;
-  }
-  article {
-    width: 100%;
-  }
-}
+
 
 p {
   text-indent: 5rem;
@@ -81,6 +74,11 @@ hr {
   height: 1px;
   background: #272727;
   margin: 3rem 0;
+}
+
+a {
+  font-size: 1.6rem;
+  line-height: 1.5;
 }
 
 a:link {
@@ -111,4 +109,20 @@ li {
 
 li:last-of-type {
   border-bottom: 1px solid;
+}
+
+@media screen and (max-width: 768px) {
+  body {
+    margin: 1.6rem;
+  }
+  article {
+    width: 100%;
+  }
+  p {
+    text-indent: 4rem;
+  }
+  p.header {
+    text-indent: 4rem;
+  }
+
 }
