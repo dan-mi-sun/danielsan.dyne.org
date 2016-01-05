@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'AT';
-	src: url('../fonts/AtlasTypewriter-Regular.woff') format('woff');
+	src: url('../fonts/MaisonNeueMono.woff') format('woff');
 	font-style: normal;
 	font-weight: 400;
 }
@@ -87,14 +87,14 @@ a:link {
     color: #04fa13;
 }
 
-a:hover {
-  color: #04fa13;
-  border-bottom: 1px solid;
-}
-
 a:visited {
     text-decoration: none;
     color: #04fa13;
+}
+
+a:hover {
+  color: #ccc;
+  border-bottom: 1px solid;
 }
 
 ul {
