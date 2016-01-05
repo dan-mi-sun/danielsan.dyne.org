@@ -48,6 +48,7 @@ body {
 article {
   width: 60vw;
   max-width: 780px;
+  margin-bottom: 9.6rem;
 }
 
 @media(max-width: 768px) {
@@ -84,16 +85,16 @@ hr {
 
 a:link {
     text-decoration: none;
-    color: #04fa13;
+    color: #aaa;
 }
 
 a:visited {
     text-decoration: none;
-    color: #04fa13;
+    color: #aaa;
 }
 
 a:hover {
-  color: #ccc;
+  color: #04fa13;
   border-bottom: 1px solid;
 }
 
