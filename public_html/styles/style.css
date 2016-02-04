@@ -46,12 +46,13 @@ body {
 }
 
 article {
-  width: 60vw;
-  max-width: 780px;
-  margin-bottom: 9.6rem;
+  max-width: 740px;
+  margin-bottom: 8rem;
 }
 
-
+.content {
+  padding-bottom: 2.5rem;
+}
 
 p {
   text-indent: 5rem;
@@ -59,21 +60,34 @@ p {
 }
 
 p.header {
-  text-indent: 5rem;
+  text-indent: 0;
 }
 
-h3 {
+p.header:before {
+  content: '\2192';
+  margin-right: 4rem;;
+}
+
+h1 {
+  margin-bottom: 5rem;
+}
+
+h2 {
   color: #272727;
   border-top: 1px solid;
   padding: 0.5rem 0;
-  margin-top: 3rem;
+  margin-top: 0.35rem;
 }
 
 hr {
   border: 0;
   height: 1px;
   background: #272727;
-  margin: 3rem 0;
+  margin: 2rem 0 0.5rem 0;
+}
+
+hr.small {
+  margin: 0.5rem 0;
 }
 
 a {
